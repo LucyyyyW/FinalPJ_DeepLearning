@@ -1,8 +1,11 @@
 # FinalPJ_DeepLearning
-We utilize Vit-pytorch package to implement the transformer based classifier.
+We utilize Vit-pytorch package to implement the transformer based classifier.\\
+##Environment
+Pytorch=1.10.0, cuda=11.3
+
 1.first pip install
 ```shell
-pip install Vit-pytorch
+pip install vit-pytorch
 ```
 2. run the model
 ```shell
