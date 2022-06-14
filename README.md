@@ -13,3 +13,11 @@ The link for trained models is as follows.
 >>>trans_aug
 >>FasterRCNN(Task2)
 >>>coco,imagenet,random
+
+.
+task-1/
+	pkg/
+	main.py
+	...
+datasets/
+	cifar/
