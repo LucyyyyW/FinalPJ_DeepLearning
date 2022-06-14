@@ -17,11 +17,14 @@ The link for trained models is as follows.
 
 ```shell
 .
-task-1/
-	pkg/
-	main.py
-	...
-datasets/
-	cifar/
+Final/
+	Transformer(task3)/
+	trans(without augmentation)
+	trans_aug
+	FasterRCNN(Task2)/
+	coco
+	imagenet
+	random
+	
 ```
 
